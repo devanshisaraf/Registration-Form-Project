@@ -29,6 +29,3 @@ This project involves creating a dynamic and user-friendly registration form usi
 
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
